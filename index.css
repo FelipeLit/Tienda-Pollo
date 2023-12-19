@@ -1,0 +1,12 @@
+footer{
+    background-color: red;
+    height: 100px;
+}
+
+.btn{
+    width: 100%;
+    background-color: red;
+}
+.nombreProducto{
+    font-weight: bold;
+}
