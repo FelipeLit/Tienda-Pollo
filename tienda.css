@@ -1,0 +1,108 @@
+footer{
+    background-color: red;
+    height: 100px;
+}
+
+.btn{
+    width: 100%;
+    background-color: red;
+}
+.nombreProducto{
+    font-weight: bold;
+}
+
+
+/* .card{
+    height: 505px;
+}
+
+button{
+    position: absolute;
+    width: 90% !important;
+    bottom: 10px; 
+}
+
+p{
+    margin-bottom: 60px;
+} */
+
+.card{
+    padding: 3%;
+}
+
+
+
+/* theme DARK */
+.theme-dark{
+    background-color: #333;
+}
+
+.theme-dark .card{
+    background-color: #888;
+}
+
+.theme-dark button{
+    background-color: #333;
+    color: white;
+    border: none;
+}
+
+.theme-dark button:hover{
+    background-color: white;
+    color: #333;
+}
+
+.theme-dark footer{
+    background-color: #888;
+}
+
+
+/* theme light */
+.theme-light{
+    background-color: white;  
+}
+
+.theme-light .card{
+    background-color: rgb(247, 247, 240);
+}
+
+.theme-light button:hover{
+    background-color: #eee;
+    color: red;
+    border: none;
+}
+
+/* theme blue */
+.theme-blue{
+    background-color: cadetblue;
+}
+
+.theme-blue .card{
+    background-color: lightblue;
+}
+
+.theme-blue button{
+    background-color: cadetblue;
+    border: none;
+}
+
+.theme-blue .form-select{
+    background-color: lightblue;
+    color: black;
+    border: lightblue;
+}
+
+.theme-blue footer{
+    background-color: lightblue;
+}
+
+
+.theme-blue button:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+
+
+
+
